@@ -3,6 +3,12 @@ OCR-Biology-A-level
 
 Open Source OCR A-Level Biology Course Notes and Specification
 
+Sometimes we link to other websites which provide awesome content to revise from! Usually there's an icon which can be clicked and takes you to the relevant section.
+
+For example in [4.1.2 Nerves](https://github.com/BukhariH/OCR-Biology-Alevel/blob/master/4.1.2%20Nerves.md) you see:
+
+[![Khan Academy Icon](https://s3.amazonaws.com/f.cl.ly/items/0j0g3f2t2i0i2O1B163w/favicon.ico)](https://www.khanacademy.org) and when you see the leaf; you know it represents Khan Academy.
+
 ##Contributing
 Just make and edit and send in a pull request!
 Relevant branch name get browny points and it'll look great on your C.V!
