@@ -7,9 +7,9 @@ Open Source OCR A-Level Biology Course Notes and Specification
 Just make and edit and send in a pull request!
 Relevent branch name get browny points and it'll look great on your C.V!
 
-##Units
+#Units
 
-#A2 Unit F214: Communication, Homeostasis and Energy
+##A2 Unit F214: Communication, Homeostasis and Energy
 
 * [4.1.1 Communication](https://github.com/BukhariH/OCR-Biology-Alevel/blob/master/4.1.1%20Communication.md)
 * [4.1.2 Nerves](https://github.com/BukhariH/OCR-Biology-Alevel/blob/master/4.1.2%20Nerves.md)
