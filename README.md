@@ -27,7 +27,7 @@ ___
 | [4.3.1 Photosynthesis](https://github.com/BukhariH/OCR-Biology-Alevel/blob/master/4.3.1%20Photosynthesis.md)| False      |
 | [4.4.1 Respiration.md](https://github.com/BukhariH/OCR-Biology-Alevel/blob/master/4.4.1%20Respiration.md)| False      |
 
-##A2 Unit F215: Communication, Homeostasis and Energy
+##A2 Unit F215: Control, genomes and environment
 
 | Section        | Completed?           |
 | :-------------: |:-------------:|
