@@ -39,4 +39,4 @@ ___
 | [5.3.1 Ecosystems](https://github.com/BukhariH/OCR-Biology-Alevel/blob/master/5.3.1 Ecosystems.md)| False |
 | [5.3.2 Populations and Sustainability](https://github.com/BukhariH/OCR-Biology-Alevel/blob/master/5.3.2 Populations and Sustainability.md)| False |
 | [5.4.1 Plant Responses](https://github.com/BukhariH/OCR-Biology-Alevel/blob/master/5.4.1 Plant Responses.md)| False |
-| [5.2.3 5.4.2 Animal Responses](https://github.com/BukhariH/OCR-Biology-Alevel/blob/master/5.4.2 Animal Responses.md)| False |
+| [5.4.2 Animal Responses](https://github.com/BukhariH/OCR-Biology-Alevel/blob/master/5.4.2 Animal Responses.md)| False |
