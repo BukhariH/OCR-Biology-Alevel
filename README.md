@@ -34,5 +34,9 @@ ___
 | [5.1.1 Cellular Control](https://github.com/BukhariH/OCR-Biology-Alevel/blob/master/5.1.1%20Cellular%20Control.md)| False |
 | [5.1.2 Meiosis and Variation](https://github.com/BukhariH/OCR-Biology-Alevel/blob/master/5.1.2%20Meiosis%20and%20Variation.md)| False |
 | [5.2.1 Cloning in Plants and Animals](https://github.com/BukhariH/OCR-Biology-Alevel/blob/master/5.2.1 Cloning in Plants and Animals.md)| False |
-| [5.2.2 Biotechnology](https://github.com/BukhariH/OCR-Biology-Alevel/blob/master/5.2.2 Biotechnology.md)| False |
+| [5.2.2 Biotechnology](https://github.com/BukhariH/OCR-Biology-Alevel/blob/master/5.2.2 Biotechnology.md)| True |
 | [5.2.3 Genomes and Gene Technologies](https://github.com/BukhariH/OCR-Biology-Alevel/blob/master/5.2.3 Genomes and Gene Technologies.md)| False |
+| [5.3.1 Ecosystems](https://github.com/BukhariH/OCR-Biology-Alevel/blob/master/5.3.1 Ecosystems.md)| False |
+| [5.3.2 Populations and Sustainability](https://github.com/BukhariH/OCR-Biology-Alevel/blob/master/5.3.2 Populations and Sustainability.md)| False |
+| [5.4.1 Plant Responses](https://github.com/BukhariH/OCR-Biology-Alevel/blob/master/5.4.1 Plant Responses.md)| False |
+| [5.2.3 5.4.2 Animal Responses](https://github.com/BukhariH/OCR-Biology-Alevel/blob/master/5.4.2 Animal Responses.md)| False |
