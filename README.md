@@ -52,7 +52,7 @@ ___
 | [5.2.2 Biotechnology](A2/F215/5.2.2 Biotechnology.md)| True |
 | [5.2.3 Genomes and Gene Technologies](A2/F215/5.2.3 Genomes and Gene Technologies.md)| Started |
 | [5.3.1 Ecosystems](A2/F215/5.3.1 Ecosystems.md)| True |
-| [5.3.2 Populations and Sustainability](A2/F215/5.3.2 Populations and Sustainability.md)| NEXT |
+| [5.3.2 Populations and Sustainability](A2/F215/5.3.2 Populations and Sustainability.md)| True |
 | [5.4.1 Plant Responses](A2/F215/5.4.1 Plant Responses.md)| True |
 | [5.4.2 Animal Responses](A2/F215/5.4.2 Animal Responses.md)| False |
 | [5.4.3 Animal Behaviour](A2/F215/5.4.3 Animal Behaviour.md)| True |
