@@ -39,7 +39,7 @@ ___
 | [4.1.2 Nerves](A2/F214/4.1.2 Nerves.md)| Nearly      |
 | [4.1.3 Hormones](A2/F214/4.1.3 Hormones.md)| False      |
 | [4.2.1 Excretion](A2/F214/4.2.1 Excretion.md)| False      |
-| [4.3.1 Photosynthesis](A2/F214/4.3.1 Photosynthesis.md)| False      |
+| [4.3.1 Photosynthesis](A2/F214/4.3.1 Photosynthesis.md)| Started      |
 | [4.4.1 Respiration](A2/F214/4.4.1 Respiration.md)| False      |
 
 ##A2 Unit F215: Control, genomes and environment
