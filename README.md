@@ -47,7 +47,7 @@ ___
 | Section        | Completed?           |
 | :-------------: |:-------------:|
 | [5.1.1 Cellular Control](A2/F215/5.1.1 Cellular Control.md)| Nearly |
-| [5.1.2 Meiosis and Variation](A2/F215/5.1.2 Meiosis and Variation.md)| Started |
+| [5.1.2 Meiosis and Variation](A2/F215/5.1.2 Meiosis and Variation.md)| True |
 | [5.2.1 Cloning in Plants and Animals](A2/F215/5.2.1 Cloning in Plants and Animals.md)| True |
 | [5.2.2 Biotechnology](A2/F215/5.2.2 Biotechnology.md)| True |
 | [5.2.3 Genomes and Gene Technologies](A2/F215/5.2.3 Genomes and Gene Technologies.md)| Started |
